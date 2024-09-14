@@ -13,6 +13,12 @@ Clone the project:
    git clone https://github.com/agung-mk/BioLink-Simple-Web
 ```
 
+## Repository Structure
+
+- **`index.html`**: The main HTML file containing the structure of the website.
+- **`style.css`**: The CSS file for styling the website, including layout and design.
+- **`script.js`**: The JavaScript file for interactive features and functionality.
+
 ## Screenshot 
 
 [Screenshot](img/logo-bg.png)
