@@ -13,7 +13,7 @@ This is a simple BioLink website built using HTML, CSS, and JavaScript. It provi
 
 ## Screenshot
 
-![BioLink Screenshot](path_to_screenshot)
+![BioLink Screenshot](img/logo-bg.png)
 
 ## Demo
 
@@ -26,7 +26,3 @@ Check out the live demo [here](https://your-website-url.com).
 To run this project locally, you just need a browser. There is no backend or complex setup required.
 
 ### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/BioLink.git
