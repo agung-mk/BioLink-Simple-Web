@@ -10,7 +10,7 @@ Check out the live demo [here](https://your-demo-link.com).
 
 Clone the project:
    ```bash
-   git clone https://github.com/your-username/BioLink.git
+   git clone https://github.com/agung-mk/BioLink-Simple-Web
 ```
 
 ### Support 
