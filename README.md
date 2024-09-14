@@ -21,7 +21,6 @@ Clone the project:
 
 ## Screenshot 
 
-<img src="img/logo-bg.png" alt="Screenshot dari Aplikasi" width="600"/>
 <img src="https://pomf2.lain.la/f/ut6c8ga.jpg" alt="Screenshot dari Aplikasi" width="400"/>
 
 ### Support 
