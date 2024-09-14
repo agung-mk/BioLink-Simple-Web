@@ -13,6 +13,9 @@ Clone the project:
    git clone https://github.com/agung-mk/BioLink-Simple-Web
 ```
 
+## Screenshot 
+
+[Screenshot](img/screenshoot.png)
 ### Support 
 
 If you find this project useful and want to provide support, you can donate via [Saweria](https://saweria.co/GeniusAI).
