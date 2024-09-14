@@ -4,7 +4,7 @@ A simple website to group all your social media profiles and links in one place.
 
 ## 🚀 Demo
 
-Check out the live demo [here](https://your-demo-link.com).
+Check out the live [Demo here](https://agung-mk.github.io/BioLink-Simple-Web/).
 
 ## 🚀 Getting Started
 
