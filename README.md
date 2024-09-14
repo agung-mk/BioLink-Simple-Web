@@ -21,7 +21,7 @@ Clone the project:
 
 ## Screenshot 
 
-[Screenshot](img/logo-bg.png)
+<img src="img/logo-bg.png" alt="Screenshot dari Aplikasi" width="600"/>
 
 ### Support 
 
