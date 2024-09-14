@@ -15,7 +15,8 @@ Clone the project:
 
 ## Screenshot 
 
-[Screenshot](img/screenshoot.png)
+[Screenshot](img/logo-bg.png)
+
 ### Support 
 
 If you find this project useful and want to provide support, you can donate via [Saweria](https://saweria.co/GeniusAI).
